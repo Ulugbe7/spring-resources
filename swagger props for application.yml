@@ -1,0 +1,9 @@
+springdoc:
+  swagger-ui:
+    path: /index.html
+    enabled: true
+  show-actuator: false
+  api-docs:
+    enabled: true
+    path: "/v2/api-docs"
+    version: openapi-3-1
